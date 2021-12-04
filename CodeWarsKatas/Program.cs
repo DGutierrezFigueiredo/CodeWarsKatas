@@ -9,7 +9,7 @@ class Program
         //All classes are static
 
 
-        Console.Read();
+        Console.ReadKey();
     }
 }
 
